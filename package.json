@@ -1,0 +1,17 @@
+{
+  "name": "tiny-worked-time",
+  "version": "0.1.0",
+  "description": "Tracks worked and overtime hours from shifts, with unpaid breaks and rounding.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {}
+}
